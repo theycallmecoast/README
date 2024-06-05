@@ -58,7 +58,6 @@ https://github.com/theycallmecoast/coastdev/blob/README/README.md
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -71,7 +70,6 @@ https://github.com/theycallmecoast/coastdev/blob/README/README.md
  <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
