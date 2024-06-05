@@ -50,9 +50,6 @@
 </picture>
 
 
-https://github.com/theycallmecoast/coastdev/blob/README/README.md
-# Github Stats
-
  <br />
  
   <p align="center">
