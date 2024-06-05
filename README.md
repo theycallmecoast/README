@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg](https://cdn.discordapp.com/attachments/1247829863734181939/1247829893165748267/Github_Banner.png?ex=666173a6&is=66602226&hm=8a3a09f3fb7896b7c654b9b94156540eea21dfdc426924f6b425ca91ff0d8d5a&))
+![MasterHead]([[https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg](https://cdn.discordapp.com/attachments/1247829863734181939/1247829893165748267/Github_Banner.png?ex=666173a6&is=66602226&hm=8a3a09f3fb7896b7c654b9b94156540eea21dfdc426924f6b425ca91ff0d8d5a&)](https://cdn.discordapp.com/attachments/1247829863734181939/1247829893165748267/Github_Banner.png?ex=666173a6&is=66602226&hm=8a3a09f3fb7896b7c654b9b94156540eea21dfdc426924f6b425ca91ff0d8d5a&))
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
  <a href="https://github.com/theycallmecoast">
