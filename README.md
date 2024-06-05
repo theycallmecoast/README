@@ -1,4 +1,4 @@
-![MasterHead]([[https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg](https://cdn.discordapp.com/attachments/1247829863734181939/1247829893165748267/Github_Banner.png?ex=666173a6&is=66602226&hm=8a3a09f3fb7896b7c654b9b94156540eea21dfdc426924f6b425ca91ff0d8d5a&](https://i.imgur.com/affaCJX.png)))
+![MasterHead](https://i.imgur.com/affaCJX.png)
 
 
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
@@ -41,17 +41,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![DevCom.web.tr](https://ytcards.demolab.com/?id=FdOr3yz6vKE&title=DevCom.web.tr&lang=en&timestamp=1690383611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DevCom.web.tr")](https://www.youtube.com/watch?v=FdOr3yz6vKE)
-[![ChatGPT V4 Deneyimim](https://ytcards.demolab.com/?id=Hr0EJA1k8jE&title=ChatGPT+V4+Deneyimim&lang=en&timestamp=1689778816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT V4 Deneyimim")](https://www.youtube.com/watch?v=Hr0EJA1k8jE)
-[![What Typing 100 WPM (Words Per Minute) Looks Like?](https://ytcards.demolab.com/?id=PANX3XgEbYU&title=What+Typing+100+WPM+%28Words+Per+Minute%29+Looks+Like%3F&lang=en&timestamp=1689498011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Typing 100 WPM (Words Per Minute) Looks Like?")](https://www.youtube.com/watch?v=PANX3XgEbYU)
-[![LeetCode Görevleri 973 - K Closest Points to Origin](https://ytcards.demolab.com/?id=BF9uAT3Nv4g&title=LeetCode+G%C3%B6revleri+973+-+K+Closest+Points+to+Origin&lang=en&timestamp=1689253207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 973 - K Closest Points to Origin")](https://www.youtube.com/watch?v=BF9uAT3Nv4g)
-[![LeetCode Görevleri 1046 - Last Stone Weight](https://ytcards.demolab.com/?id=iRvguQZMess&title=LeetCode+G%C3%B6revleri+1046+-+Last+Stone+Weight&lang=en&timestamp=1688815813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 1046 - Last Stone Weight")](https://www.youtube.com/watch?v=iRvguQZMess)
-[![LeetCode Görevleri 21,23 - Merge Two Sorted Lists && Merge K Sorted Lists](https://ytcards.demolab.com/?id=lUfMRjTY-BQ&title=LeetCode+G%C3%B6revleri+21%2C23+-+Merge+Two+Sorted+Lists+%26%26+Merge+K+Sorted+Lists&lang=en&timestamp=1688612431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 21,23 - Merge Two Sorted Lists && Merge K Sorted Lists")](https://www.youtube.com/watch?v=lUfMRjTY-BQ)
-<!-- END YOUTUBE-CARDS -->
 
 
 <picture>
